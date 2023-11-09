@@ -1,0 +1,18 @@
+.calc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    border: 3px solid transparent;
+    box-shadow: 10px 10px 10px 10px rgb(11, 94, 215);
+}
+
+.calc-title{
+    font-size: 70px !important;
+    margin-bottom: 35px;
+}
+.calc-subtitle{
+    font-weight: bold;
+    margin-bottom:10px;
+}
